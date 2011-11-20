@@ -1,5 +1,5 @@
 About 
-	This is the mobile application I built for the cfunited 2010 conference. 
+	This is an application for the Agile Grenoble conference	
 ---------------------------------------------------------------------------------------------------------------------
 Requirements
 	+ Sench Touch (http://www.sencha.com)
@@ -13,8 +13,4 @@ Install
 ---------------------------------------------------------------------------------------------------------------------
 Issues
 
----------------------------------------------------------------------------------------------------------------------
-Contact
-	Blog: http://www.danvega.org/blog
-	Twitter: @cfaddict
 	
