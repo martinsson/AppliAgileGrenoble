@@ -130,7 +130,9 @@ cfunited.ui.Schedule = Ext.extend(Ext.Container,{
 		var schedule_data = new Object();
 		
 		schedule_data = [
-{'schedule': [{'seats':0,'starttime':'','endtime':'', 'topic':{'id':0,'name':'10:00'},'speakers':[{'id':0,'name':'0'}], 'location':''}],'date':'AM'},
+{'schedule': [{'seats':0,'starttime':'08:00','endtime':'08:45', 'topic':{'id':47,'name':'Accueil autour d\'un café'},'speakers':[{'id':69,'name':'Club Agile Rhône Alpes'}], 'location':'Atrium'}],'date':'AM'},
+{'schedule': [{'seats':450,'starttime':'08:45','endtime':'09:00', 'topic':{'id':41,'name':'Le mot des organisateurs & Sponsor SAMSE'},'speakers':[{'id':63,'name':'Club Agile Rhône Alpes'}], 'location':'Auditorium'}],'date':'AM'},
+{'schedule': [{'seats':450,'starttime':'09:00','endtime':'09:45', 'topic':{'id':42,'name':'Starting An Agile Transition with Why'},'speakers':[{'id':64,'name':'Karl Scotland'}], 'location':'Auditorium'}],'date':'AM'},
 {'schedule': [{'seats':530,'starttime':'10:00','endtime':'10:45', 'topic':{'id':1,'name':'Neuro-agilité: un nouveau regard sur la conception'},'speakers':[{'id':1,'name':'Laurent Bossavit'}], 'location':'Auditorium'}],'date':'AM'},
 {'schedule': [{'seats':110,'starttime':'10:00','endtime':'10:45', 'topic':{'id':2,'name':'Les tests intégrés sont une arnaque!'},'speakers':[{'id':2,'name':'J. B. Rainsberger'}], 'location':'Makalu'}],'date':'AM'},
 {'schedule': [{'seats':50,'starttime':'10:00','endtime':'10:45', 'topic':{'id':3,'name':'Alone in the dark'},'speakers':[{'id':3,'name':'Stéphane Hanser'}], 'location':'Kilimandjaro 1-2'}],'date':'AM'},
@@ -147,6 +149,10 @@ cfunited.ui.Schedule = Ext.extend(Ext.Container,{
 {'schedule': [{'seats':25,'starttime':'11:10','endtime':'12:05', 'topic':{'id':14,'name':'It’s What You Don’t Do That Counts'},'speakers':[{'id':21,'name':'Susan Hunter'}], 'location':'Mont Blanc 4'}],'date':'AM'},
 {'schedule': [{'seats':40,'starttime':'11:10','endtime':'12:05', 'topic':{'id':15,'name':'(ice)Scrum, agilité et rock\'n roll'},'speakers':[{'id':23,'name':'Claude Aubry'}], 'location':'Cervin'}],'date':'AM'},
 {'schedule': [{'seats':40,'starttime':'11:10','endtime':'12:05', 'topic':{'id':16,'name':'La contractualisation d’un projet Agile : enjeux et pièges'},'speakers':[{'id':25,'name':'Jean-Philippe Leclere'}], 'location':'Everest'}],'date':'AM'},
+{'schedule': [{'seats':450,'starttime':'12:20','endtime':'12:45', 'topic':{'id':43,'name':'Clean Code'},'speakers':[{'id':65,'name':'Clean Code'}], 'location':'Auditorium'}],'date':'AM'},
+{'schedule': [{'seats':450,'starttime':'13:20','endtime':'13:35', 'topic':{'id':44,'name':'Slam!'},'speakers':[{'id':66,'name':'Un Deux Ground'}], 'location':'Auditorium'}],'date':'AM'},
+{'schedule': [{'seats':450,'starttime':'13:35','endtime':'13:45', 'topic':{'id':45,'name':'Le mot des organisateurs & Sponsor SOGILIS'},'speakers':[{'id':67,'name':'Club Agile Rhône Alpes'}], 'location':'Auditorium'}],'date':'PM'},
+{'schedule': [{'seats':450,'starttime':'13:45','endtime':'14:30', 'topic':{'id':46,'name':'How to Change the World'},'speakers':[{'id':68,'name':'Jürgen Appelo'}], 'location':'Auditorium'}],'date':'PM'},
 {'schedule': [{'seats':530,'starttime':'14:45','endtime':'15:40', 'topic':{'id':17,'name':'Agile Offer Creation program in Schneider Electric'},'speakers':[{'id':27,'name':'Hervé Dondey'}], 'location':'Auditorium'}],'date':'PM'},
 {'schedule': [{'seats':110,'starttime':'14:45','endtime':'15:40', 'topic':{'id':18,'name':'Maîtriser le legacy avec Mikado'},'speakers':[{'id':29,'name':'Johan Martinsson'}], 'location':'Makalu'}],'date':'PM'},
 {'schedule': [{'seats':50,'starttime':'14:45','endtime':'15:40', 'topic':{'id':19,'name':'Agile Portfolio'},'speakers':[{'id':31,'name':'Fabrice Aimetti'}], 'location':'Kilimandjaro 1-2'}],'date':'PM'},
