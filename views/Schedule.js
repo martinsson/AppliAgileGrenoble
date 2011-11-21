@@ -151,6 +151,8 @@ cfunited.ui.Schedule = Ext.extend(Ext.Container,{
 {'schedule': [{'seats':40,'starttime':'11:10','endtime':'12:05', 'topic':{'id':16,'name':'La contractualisation d’un projet Agile : enjeux et pièges'},'speakers':[{'id':25,'name':'Jean-Philippe Leclere'}], 'location':'Everest'}],'date':'AM'},
 {'schedule': [{'seats':450,'starttime':'12:20','endtime':'12:45', 'topic':{'id':43,'name':'Clean Code'},'speakers':[{'id':65,'name':'Clean Code'}], 'location':'Auditorium'}],'date':'AM'},
 {'schedule': [{'seats':450,'starttime':'13:20','endtime':'13:35', 'topic':{'id':44,'name':'Slam!'},'speakers':[{'id':66,'name':'Un Deux Ground'}], 'location':'Auditorium'}],'date':'AM'},
+{'schedule': [{'seats':0,'starttime':'','endtime':'', 'topic':{'id':48,'name':''},'speakers':[{'id':0,'name':''}], 'location':''}],'date':'AM'},
+{'schedule': [{'seats':0,'starttime':'','endtime':'', 'topic':{'id':49,'name':''},'speakers':[{'id':0,'name':''}], 'location':''}],'date':'AM'},
 {'schedule': [{'seats':450,'starttime':'13:35','endtime':'13:45', 'topic':{'id':45,'name':'Le mot des organisateurs & Sponsor SOGILIS'},'speakers':[{'id':67,'name':'Club Agile Rhône Alpes'}], 'location':'Auditorium'}],'date':'PM'},
 {'schedule': [{'seats':450,'starttime':'13:45','endtime':'14:30', 'topic':{'id':46,'name':'How to Change the World'},'speakers':[{'id':68,'name':'Jürgen Appelo'}], 'location':'Auditorium'}],'date':'PM'},
 {'schedule': [{'seats':530,'starttime':'14:45','endtime':'15:40', 'topic':{'id':17,'name':'Agile Offer Creation program in Schneider Electric'},'speakers':[{'id':27,'name':'Hervé Dondey'}], 'location':'Auditorium'}],'date':'PM'},
@@ -177,6 +179,8 @@ cfunited.ui.Schedule = Ext.extend(Ext.Container,{
 {'schedule': [{'seats':25,'starttime':'17:25','endtime':'18:20', 'topic':{'id':38,'name':'Atelier NeuroAgile'},'speakers':[{'id':60,'name':'Laurent Bossavit'}], 'location':'Mont Blanc 4'}],'date':'PM'},
 {'schedule': [{'seats':40,'starttime':'17:25','endtime':'18:20', 'topic':{'id':39,'name':'L\'agilité support au co-développement'},'speakers':[{'id':61,'name':'Manuel Vacelet'}], 'location':'Cervin'}],'date':'PM'},
 {'schedule': [{'seats':40,'starttime':'17:25','endtime':'18:20', 'topic':{'id':40,'name':'Overcoming Distances: Scrum with Distributed Teams'},'speakers':[{'id':62,'name':'Silvana Wasitova'}], 'location':'Everest'}],'date':'PM'},
+{'schedule': [{'seats':0,'starttime':'','endtime':'', 'topic':{'id':41,'name':''},'speakers':[{'id':0,'name':''}], 'location':''}],'date':'PM'},
+{'schedule': [{'seats':0,'starttime':'','endtime':'', 'topic':{'id':42,'name':''},'speakers':[{'id':0,'name':''}], 'location':''}],'date':'PM'},
 		
 				]; 
 			      var append = false ;
